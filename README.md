@@ -17,6 +17,13 @@ Este projeto ReactJS é um desafio para criação do layout de uma loja fictíci
 - (criar o projeto) npx create-react-app <nome-do-projeto> --template typescript
 - (instalar o Bootstrap) yarn add bootstrap
 - (instalação do React Router DOM, no caso, a versão usada no projeto criado) yarn add react-router-dom@5.2.0 @types/react-router-dom@5.1.7
+  
+  
+  
+  ![home](https://user-images.githubusercontent.com/52077283/155861109-d6a61e69-00cb-4ac9-97bb-6c7050a383ae.PNG)
+  
+  
+  ![catalog](https://user-images.githubusercontent.com/52077283/155861173-8a02b1ec-d741-4d0f-b4e7-a1599cc86eeb.PNG)
 
 
 
