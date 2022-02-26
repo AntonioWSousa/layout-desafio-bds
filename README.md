@@ -1,4 +1,32 @@
-# Getting Started with Create React App
+# Projeto Layout de tela
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/AntonioWSousa/layout-desafio-bds/blob/main/LICENSE) 
+
+## Sobre o projeto
+
+Este projeto ReactJS é um desafio para criação do layout de uma loja fictícia de automóveis do Bootcamp DevSuperior realizado com Typescript, CSS e um pouco de HTML, contendo home, sistema de rotas, onde você clica em um botão, e dispara para uma página diferente. Além disso, breakpoints foram criados para este layout, onde o usuário é capaz de visualizar a página em mobile.
+
+
+### Ferramentas utilizadas
+- Visual Studio Code
+- Bootstrap
+- React Router DOM
+- YARN
+
+#### Para criar o projeto ReactJS
+- (criar o projeto) npx create-react-app <nome-do-projeto> --template typescript
+- (instalar o Bootstrap) yarn add bootstrap
+- (instalação do React Router DOM, no caso, a versão usada no projeto criado) yarn add react-router-dom@5.2.0 @types/react-router-dom@5.1.7
+
+
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
