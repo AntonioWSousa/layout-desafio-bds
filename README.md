@@ -4,7 +4,7 @@
 
 ## Sobre o projeto
 
-Este projeto ReactJS é um desafio para criação do layout de uma loja fictícia de automóveis do Bootcamp DevSuperior realizado com Typescript, CSS e um pouco de HTML, contendo home, sistema de rotas, onde você clica em um botão, e dispara para uma página diferente. Além disso, breakpoints foram criados para este layout, onde o usuário é capaz de visualizar a página em mobile.
+Este projeto ReactJS é um desafio para criação do layout de uma loja fictícia de automóveis do Bootcamp DevSuperior para fins de aprendizado realizado com Typescript, CSS e um pouco de HTML, contendo home, sistema de rotas, onde você clica em um botão, e dispara para uma página diferente. Além disso, breakpoints foram criados para este layout, onde o usuário é capaz de visualizar a página em mobile.
 
 
 ### Ferramentas utilizadas
