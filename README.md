@@ -24,9 +24,30 @@ Este projeto ReactJS é um desafio para criação do layout de uma loja fictíci
   
   
   ![catalog](https://user-images.githubusercontent.com/52077283/155861173-8a02b1ec-d741-4d0f-b4e7-a1599cc86eeb.PNG)
+  
+  
+  ![responsive 320](https://user-images.githubusercontent.com/52077283/155866214-33cf73d6-23e4-4a30-b081-6534e0bd24ff.PNG)
+  
+  
+  ![responsive 576](https://user-images.githubusercontent.com/52077283/155866242-c2fff22e-f695-434d-93eb-09bca03c4fb8.PNG)
+  
+  
+  ![responsive 768](https://user-images.githubusercontent.com/52077283/155866259-480588ed-b248-451a-bf5b-09a3d7be537a.PNG)
+  
+  
+  ![responsive 992](https://user-images.githubusercontent.com/52077283/155866282-332a385c-19f8-4047-b7e1-0f9f415cf3cb.PNG)
+  
+  
+  ![responsive 320](https://user-images.githubusercontent.com/52077283/155866407-0b64ad5a-e39b-4630-b7ef-f7b16d2d2b8c.PNG)
+
+  
+  ![responsive 576](https://user-images.githubusercontent.com/52077283/155866430-2c71b9e5-5350-44a6-a552-1cf324d1d52a.PNG)
 
 
-
+  ![responsive 768](https://user-images.githubusercontent.com/52077283/155866451-83c54da9-7d62-433e-81dc-917b69d481c2.PNG)
+  
+  
+  ![responsive 992](https://user-images.githubusercontent.com/52077283/155866462-fac536a1-ada6-49d2-b312-f9d54d555900.PNG)
 
 
 
